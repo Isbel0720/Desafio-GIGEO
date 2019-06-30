@@ -9950,9 +9950,9 @@ body {
 @media (min-width: 1200px) {
   .navigation {
     display: flex;
-    margin-top: 20px;
-    margin-left: 101px;
-    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 20px;
   }
 }
 @media (max-width: 375px) {
@@ -9963,9 +9963,9 @@ body {
 }
 @media (min-width: 1200px) {
   .container__icons {
-    margin-left: 599px;
-    margin-top: -33px;
-    padding-left: 296px;
+    display: flex;
+    margin-top: 10px;
+    padding-left: 830px;
   }
 }
 @media (max-width: 375px) {
@@ -9988,7 +9988,6 @@ body {
   .burger_menu {
     display: block;
     margin-left: 128px;
-    margin-top: 4px;
   }
 }
 .row {
